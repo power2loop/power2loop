@@ -13,7 +13,7 @@
 - 🌍 Based in **India**  
 - 💡 Passionate about **building scalable web applications**  
 - ⚡ Skilled in **MERN Stack, Python & C++**  
-- 🌐 Portfolio: **[vikashkumar.dev]([https://vikashkumar.dev](https://vikashz.netlify.app/))**  
+- 🌐 Portfolio: **[vikashkumar.dev](https://vikashz.netlify.app/)**
 - 📫 Reach me at: **kumar.vkvikash3@gmail.com**
 
 ---
