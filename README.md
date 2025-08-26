@@ -54,12 +54,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=power2loop&theme=radical" alt="GitHub Streak" />
 </p>
 
----
-
-### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=power2loop&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
 
 ---
 
@@ -68,9 +62,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=power2loop&theme=radical" alt="Contribution Graph" />
 </p>
 
----
-
-### 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/power2loop/power2loop/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
