@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/vikash-kumar" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikash kumar" height="30" width="40" />
 </a>
-<a href="https://vikashkumar.dev" target="blank">
+<a href="https://vikashz.netlify.app/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="portfolio" height="30" width="40" />
 </a>
 </p>
