@@ -13,13 +13,15 @@
 - 🌍 Based in **India**  
 - 💡 Passionate about **building scalable web applications**  
 - ⚡ Skilled in **MERN Stack, Python & C++**  
-- 🌐 Portfolio: **[vikash-kumar](https://vikashz.netlify.app/)**
-- 📫 Reach me at: **kumar.vkvikash3@gmail.com**
+- 📝 Currently building: **Whiteboard Project** (real-time collaboration)  
+- 🌐 Portfolio: **[vikash-kumar](https://vikashz.netlify.app/)**  
+- 📫 Reach me at: **kumar.vkvikash3@gmail.com**  
+- ☕ Fueled by coffee & curiosity  
 
 ---
 
 ### 🤝 Connect with Me  
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/vikash-kumar" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikash kumar" height="30" width="40" />
 </a>
@@ -31,7 +33,6 @@
 ---
 
 ### 🛠️ Tech Stack  
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,express,mongodb,mysql,python,cpp,git,github,vscode&theme=dark" />
@@ -42,6 +43,7 @@
 
 ### 📊 GitHub Stats  
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=power2loop&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -50,11 +52,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=power2loop&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-
 ---
 
 ### 📈 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=power2loop&theme=radical" alt="Contribution Graph" />
 </p>
-
