@@ -13,7 +13,7 @@
 - 🌍 Based in **India**  
 - 💡 Passionate about **building scalable web applications**  
 - ⚡ Skilled in **MERN Stack, Python & C++**  
-- 📝 Currently building: **Whiteboard Project** (real-time collaboration)  
+- 📝 Currently building: **SplitMate** (An expense-splitting app where users can track personal & group expenses.)  
 - 🌐 Portfolio: **[vikash-kumar](https://vikashz.netlify.app/)**  
 - 📫 Reach me at: **kumar.vkvikash3@gmail.com**  
 - ☕ Fueled by coffee & curiosity  
